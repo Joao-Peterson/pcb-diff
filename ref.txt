@@ -1,6 +1,4 @@
-pcb1 - https://www.instructables.com/How-to-Etch-a-PCB/
 pcb2 - https://ezcontents.org/etching-555-astable-timer-pcb
-pcb3 - https://youtu.be/SkHHzz342ow
 
 https://medium.com/@Swathi_Nallapati/pcb-fault-detection-using-opencv-and-python-13f7ea7759c
 https://www.ijeit.com/Vol%204/Issue%2011/IJEIT1412201505_31.pdf
