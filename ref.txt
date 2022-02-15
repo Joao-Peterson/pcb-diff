@@ -1,0 +1,11 @@
+pcb1 - https://www.instructables.com/How-to-Etch-a-PCB/
+pcb2 - https://ezcontents.org/etching-555-astable-timer-pcb
+pcb3 - https://youtu.be/SkHHzz342ow
+
+https://medium.com/@Swathi_Nallapati/pcb-fault-detection-using-opencv-and-python-13f7ea7759c
+https://www.ijeit.com/Vol%204/Issue%2011/IJEIT1412201505_31.pdf
+https://www.electroschematics.com/pcb-defects-detection-opencv/
+https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/
+https://www.pyimagesearch.com/2021/04/28/opencv-thresholding-cv2-threshold/
+https://www.pyimagesearch.com/2021/04/28/opencv-smoothing-and-blurring/
+https://docs.opencv.org/3.4/d7/d4d/tutorial_py_thresholding.html
